@@ -1,0 +1,13 @@
+# Gizli dosyalar (asla yukleme)
+.env
+client_secrets.json
+*.pickle
+
+# Pipeline'in urettigi veriler: haberler, scriptler, videolar, loglar
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

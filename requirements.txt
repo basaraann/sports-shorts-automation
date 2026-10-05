@@ -1,0 +1,12 @@
+feedparser
+groq
+python-dotenv
+requests
+moviepy>=2.0
+numpy
+Pillow
+edge-tts
+elevenlabs
+google-api-python-client
+google-auth
+google-auth-oauthlib
